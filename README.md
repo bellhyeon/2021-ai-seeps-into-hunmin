@@ -102,6 +102,7 @@ Prediction을 Mecab 형태소 분석 기반 띄어쓰기 시 Rouge Score이 저�
 * [**BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension**](https://arxiv.org/abs/1910.13461)
 <br>
 * [**TextRank: Bringing Order into Text**](https://aclanthology.org/W04-3252/)
+
 * [**EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks**](https://arxiv.org/abs/1901.11196)
 * [**An Empirical Study of Tokenization Strategies
 for Various Korean NLP Tasks**](https://arxiv.org/abs/2010.02534)
